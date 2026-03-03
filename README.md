@@ -19,6 +19,21 @@
 ### 🛠️ Developer & Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+# 🚀 Currently Working On:
+
+	•	Building a full-stack booking platform with React + Supabase
+	•	Improving backend performance with query optimization
+	•	Strengthening TypeScript patterns and scalable folder structures
+
+ # 📌 Featured Projects
+
+StitchHub – Full-stack fashion booking platform with real-time updates.
+!--🔗 [Live Demo](https://your-vercel-link.vercel.app) --
+🎨 [Figma UX Design Preview](https://www.figma.com/make/E1hti1V21UsA9W9HbpFqtn/SpendWise-Finance-Tracker-Design?fullscreen=1&t=b6xgx9E9RsknZQ9b-1)
+
+CampusTrack – Attendance analytics dashboard using PostgreSQL.
+SpendWise – Minimal finance tracker with interactive data visualization.
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdepaObeng&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AdepaObeng&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdepaObeng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
