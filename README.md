@@ -1,7 +1,11 @@
-# 👋 Hi, I’m Maame Adepa
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9a9e,100:fad0c4&height=250&section=header&text=Maame%20Obeng%20Wiafe&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=UI%2FUX%20Designer%20%7C%20Web%20Developer%20%7C%20Database%20Enthusiast&descAlignY=65&descAlign=50"/>
 
 ## 💫 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;UI%2FUX+Designer;Web+Developer;Database+Enthusiast;System+Design+Learner" alt="Typing SVG" />
+</p>
  Hi, I’m Maame Adepa<br><br>Full-Stack Developer passionate about building scalable and user-friendly web applications.<br><br>I specialize in:<br><br>	•	⚛️ React & TypeScript development<br>	•	🎨 Clean, responsive UI with Tailwind CSS<br>	•	🗄 Relational database design (PostgreSQL / Supabase)<br>	•	🚀 Deploying production apps with Vercel<br><br>I combine technical structure with UI thinking, ensuring that applications are both functional and intuitive.<br><br>Currently open to:<br>	•	Frontend Developer roles<br>	•	Junior Full-Stack Developer roles<br>	•	UI-Focused Engineering roles<br>
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maame_adepaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maame-yaa-obeng-wiafe) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MaameOWiafe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@maamz_x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maameyaaobengwiafe@gmail.com) 
 
