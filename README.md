@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9a9e,100:fad0c4&height=250&section=header&text=Maame%20Obeng%20Wiafe&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=UI%2FUX%20Designer%20%7C%20Web%20Developer%20%7C%20Database%20Enthusiast&descAlignY=65&descAlign=50"/>
-
-## 💫 About Me:
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffd6e0,100:d4a5a5&height=250&section=header&text=Maame%20Adepa%20Obeng%20Wiafe&fontSize=55&fontColor=000000&animation=fadeIn&descAlignY=65&descAlign=50"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;UI%2FUX+Designer;Web+Developer;Database+Enthusiast;System+Design+Learner" alt="Typing SVG" />
 </p>
@@ -32,11 +30,17 @@
  # 📌 Featured Projects
 
 StitchHub – Full-stack fashion booking platform with real-time updates.
-!--🔗 [Live Demo](https://your-vercel-link.vercel.app) --
-🎨 [Figma UX Design Preview](https://www.figma.com/make/E1hti1V21UsA9W9HbpFqtn/SpendWise-Finance-Tracker-Design?fullscreen=1&t=b6xgx9E9RsknZQ9b-1)
+🔗 [Live Demo](https://your-vercel-link.vercel.app)
+🎨 [Figma UX Design Preview](https://www.figma.com/make/lJWiiFefQylQRqxYwM67iz/Fashion-Booking-Platform-UX?t=JGKR5gh7ApqcgtDH-1)
 
 CampusTrack – Attendance analytics dashboard using PostgreSQL.
+🔗 [Live Demo]
+🎨 [Figma UX Design Preview]
+
 SpendWise – Minimal finance tracker with interactive data visualization.
+🔗 [Live Demo]
+🎨 [Figma UX Design Preview](https://www.figma.com/make/E1hti1V21UsA9W9HbpFqtn/SpendWise-Finance-Tracker-Design?fullscreen=1&t=b6xgx9E9RsknZQ9b-1)
+
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdepaObeng&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
